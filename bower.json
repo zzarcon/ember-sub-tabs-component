@@ -1,0 +1,6 @@
+{
+  "name": "ember-sub-tabs-component",
+  "dependencies": {
+    "ember" : "1.6.1"
+  }
+}
